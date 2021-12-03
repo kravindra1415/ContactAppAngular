@@ -1,1 +1,24 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500&display=swap');
+
+h1{
+    color: blue;
+}
+
+.navbar{
+    background-color: brown;
+    padding: 15px;
+}
+
+body{
+    margin: 0%;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.navbar a{
+    color: white;
+    text-decoration: none;
+    font-size: larger;
+}
+
